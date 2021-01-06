@@ -9,11 +9,9 @@
 If you like the way I greet you, check out this [Todo-list](aegerita-todo.netlify.app) - [![GitHub last commit](https://img.shields.io/github/last-commit/aegerita/Vue-TodoList)](https://github.com/aegerita/Vue-TodoList) <br>
 If you like flowers, check out this [Android app](https://play.google.com/store/apps/details?id=com.aegerita.spot_a_flower) - [![GitHub last commit](https://img.shields.io/github/last-commit/aegerita/Spot-A-Flower)](https://github.com/aegerita/Spot-A-Flower) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/aegerita/Spot-A-Flower)](https://github.com/aegerita/Spot-A-Flower/releases/tag/v1.0)
 
-🎓 Software Engineering student at University of Waterloo
-👀 A loaded God complex who craves bringing projects into existence via coding.
-💕 Adore linear algebra, musicals and art history, especially of portraits.
-
-
+🎓 Software Engineering student at University of Waterloo <br>
+👀 A loaded God complex who craves bringing projects into existence via coding. <br>
+💕 Adore linear algebra, musicals and art history, especially of portraits. <br>
 
 ### Random facts as rewards:
  - **Aegerita** means mushroom, which looks weirdly cute. 
