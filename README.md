@@ -17,7 +17,8 @@ If you like flowers, check out this [Android app](https://play.google.com/store/
 
 * 💕  Adore linear algebra, musicals and art history, especially of portraits
 
-<p></p>
+I promise I will learn more things and code more often!
+
 <img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="40px" />
