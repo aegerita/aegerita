@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenny-tai/)](https://www.linkedin.com/in/jenny-tai/)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-gray?style=plastic&logo=Leetcode&logoColor=white&link=https://leetcode.com/aegerita/)](https://leetcode.com/aegerita/)
 
-If you like the way I greet you, check out this [Todo-list](aegerita-todo.netlify.app) - [![GitHub last commit](https://img.shields.io/github/last-commit/aegerita/Vue-TodoList)](https://github.com/aegerita/Vue-TodoList) <br>
+If you like the way I greet you, check out this [Todo-list](https://aegerita-todo.netlify.app/) - [![GitHub last commit](https://img.shields.io/github/last-commit/aegerita/Vue-TodoList)](https://github.com/aegerita/Vue-TodoList) <br>
 If you like flowers, check out this [Android app](https://play.google.com/store/apps/details?id=com.aegerita.spot_a_flower) - [![GitHub last commit](https://img.shields.io/github/last-commit/aegerita/Spot-A-Flower)](https://github.com/aegerita/Spot-A-Flower) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/aegerita/Spot-A-Flower)](https://github.com/aegerita/Spot-A-Flower/releases/tag/v1.0)
 
 ### This is me ...
@@ -16,8 +16,8 @@ If you like flowers, check out this [Android app](https://play.google.com/store/
 *  👀  A loaded God complex who craves bringing projects into existence via coding
 
 * 💕  Adore linear algebra, musicals and art history, especially of portraits
-<br>
- 
+
+<p></p>
 <img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="40px" />
