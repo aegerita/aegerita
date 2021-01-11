@@ -23,12 +23,13 @@ FizzBuzz:  `for (i = 1; i < 100; i++) console.log(((i%3 ? '':'Fizz') + (i%5 ? ''
 <img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="NodeJS" height="40px" />
+ <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/firebase.svg" alt="Firebase" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/tensorflow.svg" alt="Tensorflow" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/keras.svg" alt="Keras" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
  
 <br> 
 <br>
