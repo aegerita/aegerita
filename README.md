@@ -9,15 +9,13 @@
 If you like the way I greet you, check out this [Todo-list](https://aegerita-todo.netlify.app/) - [![GitHub last commit](https://img.shields.io/github/last-commit/aegerita/Vue-TodoList)](https://github.com/aegerita/Vue-TodoList) <br>
 If you like flowers, check out this [Android app](https://play.google.com/store/apps/details?id=com.aegerita.spot_a_flower) - [![GitHub last commit](https://img.shields.io/github/last-commit/aegerita/Spot-A-Flower)](https://github.com/aegerita/Spot-A-Flower) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/aegerita/Spot-A-Flower)](https://github.com/aegerita/Spot-A-Flower/releases/tag/v1.0)
 
-### This is me ...
+### Nice to meet you! I am ...
 
-*  🎓  Software Engineering student at University of Waterloo 
+- 🎓  Software Engineering student at University of Waterloo 
+-   👀  A loaded God complex who craves bringing projects into existence via coding
+-  💕  Adore linear algebra, musicals and art history, especially of portraits
 
-*  👀  A loaded God complex who craves bringing projects into existence via coding
-
-* 💕  Adore linear algebra, musicals and art history, especially of portraits
-
-I promise I will learn more things and code more often!
+FizzBuzz:  `for (i = 1; i < 100; i++) console.log(((i%3 ? '':'Fizz') + (i%5 ? '':'Buzz')) || i)`
 
 <img align="left" src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
@@ -25,13 +23,12 @@ I promise I will learn more things and code more often!
 <img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="NodeJS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/firebase.svg" alt="Firebase" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/tensorflow.svg" alt="Tensorflow" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/keras.svg" alt="Keras" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
  
 <br> 
 <br>
