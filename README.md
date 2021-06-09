@@ -22,8 +22,9 @@ FizzBuzz:  `for (i = 1; i < 100; i++) console.log(((i%3 ? '':'Fizz') + (i%5 ? ''
 <img align="left" src="https://simpleicons.org/icons/kotlin.svg" alt="Kotlin" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/android.svg" alt="Android" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="NodeJS" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/vuedotjs.svg" alt="VueJS" height="40px" />
+<img align="left" src="https://simpleicons.org/icons/nodedotjs.svg" alt="NodeJS" height="40px" />
  <img align="left" src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/firebase.svg" alt="Firebase" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/python.svg" alt="Python" height="40px" />
