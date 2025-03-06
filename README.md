@@ -11,8 +11,8 @@ If you like flowers, check out this [Android app](https://play.google.com/store/
 ### Nice to meet you! I am ...
 
 - 🎓  Software Engineering student at University of Waterloo 
-- 👀  A loaded God complex who craves bringing projects into existence via coding
-- 💕  Adore punk rock, musicals and art history, especially of portraits
+- 👀  Starting full time position at PlayStation
+- 🌟  Enjoys beading, printmaking, gaming and so on
 
 FizzBuzz:  `for (i = 1; i < 100; i++) console.log(((i%3 ? '':'Fizz') + (i%5 ? '':'Buzz')) || i)`
 
